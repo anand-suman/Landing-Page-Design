@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Clone the project
 
-  git clone "https://github.com/anand-suman/Landing-Page-Design.git"
+  git clone : https://github.com/anand-suman/Landing-Page-Design.git
 
 
   cd ahead_app_ui
@@ -49,4 +49,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   npm run dev
 
 ## Demo
-Link to project : 
+Link to project : https://landing-page-design-anand-suman.vercel.app/
